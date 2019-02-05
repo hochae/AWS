@@ -58,6 +58,14 @@ AWS practice
   - https://medium.com/@Arafat./graphical-user-interface-using-vnc-with-amazon-ec2-instances-549d9c0969c5
 
 
+## VNC connection to AWS linux instance from MS windows
+- [reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)
+- ssh connection 
+  - application : [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+  - convert private key, .pem to .ppk : PuTTYgen
+  - set turneling for vnc connection
+- VNC: [tightvnc](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)
+
 ## Using VS code on ubuntu mate core
 - Issue
   - [VS Code not working on Ubuntu when connected using XRDP](https://github.com/Microsoft/vscode/issues/3451)
