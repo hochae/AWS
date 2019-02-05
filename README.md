@@ -59,11 +59,11 @@ AWS practice
 
 
 ## VNC connection to AWS linux instance from MS windows
-- [reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)
-- ssh connection 
+- [ssh connection](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)
   - application : [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
   - convert private key, .pem to .ppk : PuTTYgen
   - set turneling for vnc connection
+    - [ssh turneling](https://www.ssh.com/ssh/tunneling/example)
 - VNC: [tightvnc](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)
 
 ## Using VS code on ubuntu mate core
