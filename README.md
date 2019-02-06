@@ -85,3 +85,5 @@ AWS practice
 
 ## Appendix: 
 - [Editing files in your Linux Virtual Machine made a lot easier with Remote VSCode](https://medium.com/@prtdomingo/editing-files-in-your-linux-virtual-machine-made-a-lot-easier-with-remote-vscode-6bb98d0639a4)
+- [XCB](https://xcb.freedesktop.org/tutorial/)
+- [Compare RDP vs VNC in Simple Language](https://www.xtontech.com/blog/rdp-vs-vnc-access/)
