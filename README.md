@@ -2,6 +2,12 @@
 AWS practice
 
 ## EC2 launch
+- As the memory usage of VS code on mate core is over 1G, we need to install at least t2.small
+  - vscode + file browser(Caja) + terminal + chrome browser(2 open tabs) + Htop
+- t2.small looks just managible for small java test program.
+- t2.medium is recommended...
+
+![Htop on t2.small](https://drive.google.com/file/d/1TBZHCuesZwgofKKODKBaf_oGBq0m56Zm/view?usp=sharing)
 
 ## GUI using VNC with Amazon EC2 Instances
 - Install GUI on ubuntu server of EC2
