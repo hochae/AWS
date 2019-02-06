@@ -77,7 +77,7 @@ AWS practice
     ```
   - reboot the instance
   - login with turneling option
-  - download vscode
+  - [download vscode](https://code.visualstudio.com/docs/setup/linux)
   - install vscode
     ```
     sudo apt install ./<.deb file downloaded>
