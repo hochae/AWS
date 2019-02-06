@@ -7,7 +7,7 @@ AWS practice
 - t2.small looks just managible for small java test program.
 - t2.medium is recommended...
 
-![Htop on t2.small](https://drive.google.com/file/d/1TBZHCuesZwgofKKODKBaf_oGBq0m56Zm/view?usp=sharing)
+![Htop on t2.small](https://drive.google.com/uc?export=view&id=1ptQKMUCbpz3FdAaUqmrqQIeb6VfcDAeW)
 
 ## GUI using VNC with Amazon EC2 Instances
 - Install GUI on ubuntu server of EC2
